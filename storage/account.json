@@ -7,9 +7,9 @@
         "favouriteNumber": "BN<1234>"
     },
     "dummytree": {
-        "password": "test1",
-        "favouriteFruit": "Mango",
-        "favouriteMovie": "V for Vendetta",
-        "favouriteNumber": "The last prime number"
+        "name": "testaccount",
+        "password": "testpassword",
+        "favouriteFruit": "mango",
+        "favouriteNumber": "23"
     }
 }
